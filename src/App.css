@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  border: 10px solid transparent;
+  border-image: url(border.png) 25 stretch;
+  background-image: url("backgrd.png"), linear-gradient(blue, rgb(189, 124, 3) , rgb(0, 255, 42), red) ;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+ 
+ 
+ 
+
+}
+
+
